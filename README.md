@@ -27,7 +27,6 @@ The biggest cluster of people connected only through marriage or romantic relati
 
 https://drive.google.com/file/d/0B1GlOLveSFDpTUpEQ3A5YU0tMGs/view
 
-А вот самая длинная по числу поколений монархическая династия: 
 The longest (by the number of generations) royal dynasty:
 
 https://drive.google.com/file/d/0B1GlOLveSFDpRW5BVFMyNHFBRGc/view
@@ -50,6 +49,10 @@ https://goo.gl/iyQ7kH
 Представление данных в виде структуры связей позволяет проверять и корректность заполнения многих вики-статей.   Можно автоматизированно выявлять ошибки: и множество их уже было обнаружено, например петли родственных связей, когда внук указан в виде отца своего дедушки. Или когда дети рождаются до рождения родителей или через сотни лет после (для этого использовались еще данные о годах рождений).
 
 Вот например самый большой кластер людей, связанных между собой исключительно узами брака или партнерскими отношениями:
+https://drive.google.com/file/d/0B1GlOLveSFDpTUpEQ3A5YU0tMGs/view
+
+А вот самая длинная по числу поколений монархическая династия: 
+https://drive.google.com/file/d/0B1GlOLveSFDpRW5BVFMyNHFBRGc/view
 
 Подробнее можно прочитать в двух моих заметках (русский язык):
 https://goo.gl/qllSjZ
