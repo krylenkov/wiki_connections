@@ -1,5 +1,5 @@
 # wiki_connections
-connections between people on the basis of the wiki
+Extraction, analysis and plotting of connections between people from wikipedia data
 
 Wikipedia has special templates to describe a person. These templates may contain information on the person’s connections with other people. These connections depend on the wikipedia language and could include familiar relationships: parents/children/spouses, master-apprentice relationships, predecessor-follower relationships in governing and so on.
 
