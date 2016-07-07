@@ -34,6 +34,7 @@ https://drive.google.com/file/d/0B1GlOLveSFDpRW5BVFMyNHFBRGc/view
 More details about this project could be found in the following articles (in Russian):
 
 https://goo.gl/qllSjZ
+
 https://goo.gl/iyQ7kH
 
 
@@ -52,9 +53,12 @@ https://goo.gl/iyQ7kH
 https://drive.google.com/file/d/0B1GlOLveSFDpTUpEQ3A5YU0tMGs/view
 
 А вот самая длинная по числу поколений монархическая династия: 
+
 https://drive.google.com/file/d/0B1GlOLveSFDpRW5BVFMyNHFBRGc/view
 
 Подробнее можно прочитать в двух моих заметках (русский язык):
+
 https://goo.gl/qllSjZ
+
 https://goo.gl/iyQ7kH
 
